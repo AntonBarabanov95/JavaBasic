@@ -20,5 +20,22 @@ public class Main {
 
         String varString = "Hello world!";
 
+
+
+        //ОПЕРАТОРЫ
+        // 1. Присвоения
+        int VarInt1 = 0;
+        VarInt1 += 10;
+
+        // 2. Математические + - * / % ++ --
+        varInt = 4 + 7;
+        VarInt1 = 7 / 4;
+        varInt = 7 % 4;
+        VarInt1 = ++varInt;
+
+        // 3. Сравнения >, <, >=, <=, ==, !=
+
+        // 4. Логические операторы &&, ||, !
+
     }
 }
